@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832774001785",
+    "firebase_url": "https://map-traker.firebaseio.com",
+    "project_id": "map-traker",
+    "storage_bucket": "map-traker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832774001785:android:84ad4aa2df26b39c",
+        "android_client_info": {
+          "package_name": "com.tesseract.map_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832774001785-jgtourq4lh9h66oqt8mp8c93vm2lhmf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5DrA9mtrUCsppRwd3S4rTBlSqdA_Mwk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
